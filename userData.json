@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ace-falcon-163402",
+  "private_key_id": "530c0fbc14a58d46ed5a41770eacb5dfaae14f3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcvucqHWymVTZ7\nrHVMbgX/bguORWPdkJLpXDeJHNAb0OF74RnSAM1h4QUHDRqEp3GRYijt9Uvc+Z4p\nUse4sIt8IYhk0i6Cid1HaZ9ghDyUHNQkHl3aj9jaCnFLIhHPVLVNJw7et7y3wT0u\numoVFvMuCoeILQFAPSWtYZh58OgmvT2lgOB6CNe1CAhGmYc7RWNPcdwt5uJK3Tg8\ndaaUhRVD6I4aXNR+3wPW5+L4cedMQ01rnwAUp3BlSush/SE87Y8C4uh9xEjQO6ij\niHGfs9IN5hSVzdJsfujN95r8BZWHttG9F5bUV1WML1bRvGWiiCRmxu+tnoIcV3Tl\nl8qgf17tAgMBAAECggEAQA0Edivjgr/m9yurPWoPQ3Zi0/0+ZOO2PRAM7TP3Dpsl\nUhSWsWCaN3RbSRh8QVF0moKo7aLnSE8FnWfvm59eWb5BHT//TtFB656yKAc2rKNQ\nysok4W4rtdih1vMjx80EbkaPAgC+OXNQlWZxsXzfQtS7TsAAROt5Kz3OSFOmiNaG\nJaysUi0us98R285F5MTwDq109RRsUsCp1sH1tagOmmvs/WuTckS6HTL1HitCizUA\n/c2ddazgYmKody8bnp45jVLNarFmShpyS1J0lTkxefC5hlaiBdJ0mkKtJqj64yi6\n+UZn6as0x3KPsIcxl7kfRGjcZq5sH3I5xQSDseIl4QKBgQD3I91uCv2cCxSxoSXG\nGri6WtQ8CXCSZPTsi/J7hImPPxnuIeoxbBgL2ags5gHKqM3pjrp5iKhO/HSrz8PF\naYlOeZ9TmrM5lOTJxIVnvVeC73Q1GlobROPqGvHY/9JtaATslMVZAGFKPYeGk4Cj\nSFasFwtn5cZiZ17jnEVE79oVvwKBgQDkqM2HxgtUNHstW+Ria0EZIQVl83DM8ox5\neCKAlJb7sz6/Su/8mZ0fYY5M1cxmbszI9Eg18aH/R2jJeVMPmwpSQjtcDkUQlbBP\nH5EzyIr1y2EiDX1LuBOxTt9RNN/ifqLzPTI9LkdFGxOhrPZ69m14xoXHHRqJR8lh\nDCwr/54uUwKBgCmkpnQbb/5yM4t2zumhqQzlrytqn8hbMJYHQtWjUJaNmG3y0wZ+\n41Jj252tKBIg/YlkXnGKIGomyfYFbUR/cv6BKeKph5elSiPhdGU1l2BdvuQPy60a\nn5jb73KUML30sBe5PcOwd7RNx99aTWu2DbyzqV1Zb2M3bdrGgzmJfOL7AoGAKfHl\nMgDcVygBaIKw1HUETg3GpbsQeCgOKMIm4htfzvBElGa0u0uajQUiS2n0wt2UZ1CY\nZnza0K9Sw5Kj7/rq28gWh35+oNo0q28I/czN4OTb/pkm4Nr1kdL8GDNw1mWQkrop\nGxwAKucapM/LrybBUiRoqevm0EQA5vKKr8+GPs0CgYEAzyHZfUuO8HouG6H6QNFB\ngSWfvxUAYADnnCkTe3qIvPj8vejhQ1b94gLqHQHGvJXgu4mBBsh1JG8ZLxW8sVtL\n3aqOcJzHkl47btbFHfiEmPeTkhzDlaDUO46HzssyvCHVAAJk1DrCBkLJ+Y0XmXd/\nXQiXR4U/X74GvXNJPRvG19Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cardmaker232@ace-falcon-163402.iam.gserviceaccount.com",
+  "client_id": "114592658655413665663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cardmaker232%40ace-falcon-163402.iam.gserviceaccount.com"
+}
