@@ -9,7 +9,7 @@ var jsonString;
 var textTitle = './monsterData'+ new Date() +'.rb';
 
 var fs = require('fs');
-fs.appendFile(textTitle, "monsterData = [\n" , 'utf-8', function (err) {
+fs.appendFile(textTitle, "$monsterData = [\n" , 'utf-8', function (err) {
     if (err) {
         console.error(err);
     }
@@ -26,7 +26,7 @@ my_sheet.useServiceAccountAuth(credentials, function(err){
               thisSheet.worksheets[i].getRows( function( err, rows ) {
                   for(var i in rows) {
 
-                      var outPutString = "[\""+rows[i].種族 + "[\""+rows[i].コスト + "\",\""+rows[i].カード名 + "\",\"" + rows[i].カードタイプ + "\",\"" +rows[i].効果 + "\",\""+rows[i].体力+ "\",\"" + rows[i].攻撃力　+ "\",\"" +rows[i].防御力 + "\",\"" + rows[i].備考 + "\"],\n";
+                      var outPutString = "[\"" +rows[i].種族 + "\",\""+rows[i].コスト + "\",\""+rows[i].カード名 + "\",\"" + rows[i].カードタイプ + "\",\"" +rows[i].効果 + "\",\""+rows[i].体力+ "\",\"" + rows[i].攻撃力　+ "\",\"" +rows[i].防御力 + "\",\"" + rows[i].備考 + "\"],\n";
 
                       jsonString = JSON.stringify(rows);
                       var fs = require('fs');
@@ -38,7 +38,7 @@ my_sheet.useServiceAccountAuth(credentials, function(err){
 
                           }
                       });
-                      if (i == rows.length-1){
+                      if (i == rows.length){
                       fs.appendFile(textTitle, "]" , 'utf-8', function (err) {
                           if (err) {
                               console.error(err);
